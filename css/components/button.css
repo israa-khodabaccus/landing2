@@ -1,0 +1,20 @@
+
+.btn-blue {
+	background-color: #0A509E;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Bebas Neue', sans-serif;
+	font-size: 20px;
+	cursor: pointer;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	max-width: 100px;
+}
+
+.btn-blue:hover {
+	background-color: #061A52;
+	transition: 1s ease;
+}
